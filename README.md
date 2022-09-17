@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Computer science student at Thaddeous Stevens College of Technology
+Software Engineer student at Thaddeous Stevens College of Technology
 
 * Learning/semi-fluent in Java, Python, and JavaScript
 * Linux user
