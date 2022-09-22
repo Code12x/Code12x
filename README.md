@@ -3,7 +3,7 @@
 Software Engineer student at Thaddeous Stevens College of Technology
 
 * Favorite language: Java
-* Other languages: Python, Javascrip, GO
+* Other languages: Python, Javascrip, GO, HTML/CSS
 * Linux user
 * Backend Development
 * Automating tasks
