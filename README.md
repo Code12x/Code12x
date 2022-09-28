@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software Engineer student at Thaddeous Stevens College of Technology
+Software Engineering student at Thaddeous Stevens College of Technology
 
 * Familiar Languages: Java, Python, Javascrip, GO, HTML/CSS
 * Linux user
