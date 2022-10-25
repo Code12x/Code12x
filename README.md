@@ -2,7 +2,7 @@
 
 Software Engineering student at Thaddeous Stevens College of Technology
 
-* Familiar Languages: Java, Python, Javascrip, GO, HTML/CSS
+* Familiar Languages: Java, GO, Rust (learning), Python, Javascrip, HTML/CSS
 * Linux user
 * Backend Development
 * Automating tasks
