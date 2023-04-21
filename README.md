@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Software Engineering student at Thaddeous Stevens College of Technology
+Computer Software Engineering student at Thaddeous Stevens College of Technology
 
-* Familiar Languages: Java, GO, Rust (learning), Python, Javascrip, HTML/CSS
+* Familiar Technologies: Java, GO, Rust, C, Python, Flask, Javascrip, HTML/CSS, BootStrap, MySQL, MongoDB, Arduino, Raspberry Pi
 * Linux user
 * Backend Development
 * Automating tasks
